@@ -1,0 +1,5 @@
+E:\GitProjects\WeixinDemo\WeiXinLib\bin\Release\WeiXinLib.dll
+E:\GitProjects\WeixinDemo\WeiXinLib\bin\Release\WeiXinLib.pdb
+E:\GitProjects\WeixinDemo\WeiXinLib\bin\Release\Newtonsoft.Json.dll
+E:\GitProjects\WeixinDemo\WeiXinLib\obj\Release\WeiXinLib.dll
+E:\GitProjects\WeixinDemo\WeiXinLib\obj\Release\WeiXinLib.pdb

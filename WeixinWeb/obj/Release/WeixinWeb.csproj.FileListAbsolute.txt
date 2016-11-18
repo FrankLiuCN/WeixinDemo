@@ -1,0 +1,9 @@
+E:\GitProjects\WeixinDemo\WeixinWeb\bin\WeixinWeb.dll.config
+E:\GitProjects\WeixinDemo\WeixinWeb\bin\WeixinWeb.dll
+E:\GitProjects\WeixinDemo\WeixinWeb\bin\WeixinWeb.pdb
+E:\GitProjects\WeixinDemo\WeixinWeb\bin\WeiXinLib.dll
+E:\GitProjects\WeixinDemo\WeixinWeb\bin\Newtonsoft.Json.dll
+E:\GitProjects\WeixinDemo\WeixinWeb\bin\WeiXinLib.pdb
+E:\GitProjects\WeixinDemo\WeixinWeb\obj\Release\WeixinWeb.csprojResolveAssemblyReference.cache
+E:\GitProjects\WeixinDemo\WeixinWeb\obj\Release\WeixinWeb.dll
+E:\GitProjects\WeixinDemo\WeixinWeb\obj\Release\WeixinWeb.pdb
